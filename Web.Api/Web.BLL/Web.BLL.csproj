@@ -15,4 +15,9 @@
     <PackageReference Include="AutoMapper" Version="13.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Web.DAL\Web.DAL.csproj" />
+    <ProjectReference Include="..\Web.Model\Web.Model.csproj" />
+  </ItemGroup>
+
 </Project>
