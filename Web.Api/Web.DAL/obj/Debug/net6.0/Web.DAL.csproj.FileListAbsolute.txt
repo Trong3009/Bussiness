@@ -1,0 +1,16 @@
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\bin\Debug\net6.0\Web.DAL.deps.json
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\bin\Debug\net6.0\Web.DAL.dll
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\bin\Debug\net6.0\Web.DAL.pdb
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\bin\Debug\net6.0\Web.Model.dll
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\bin\Debug\net6.0\Web.Model.pdb
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.csproj.AssemblyReference.cache
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.AssemblyInfoInputs.cache
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.AssemblyInfo.cs
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.csproj.CoreCompileInputs.cache
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.sourcelink.json
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.csproj.Up2Date
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.dll
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\refint\Web.DAL.dll
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\Web.DAL.pdb
+E:\BackEnd\dotnet\Bussiness\Web.Api\Web.DAL\obj\Debug\net6.0\ref\Web.DAL.dll
