@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72adcfb3dc847e7a2aab0115a778ec897745e455")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ded328a9d31071e6f013ecd923422eee7f5138")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
